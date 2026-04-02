@@ -7,7 +7,7 @@ Browser screenshot tool for [Claude Code](https://claude.ai/code). Take screensh
 One command:
 
 ```bash
-claude mcp add browsershot -- npx -y @anthropic-community/browsershot-mcp
+claude mcp add browsershot -- npx -y github:kjaiswal/browsershot-mcp
 ```
 
 That's it. Puppeteer + Chromium are bundled — no system dependencies needed.

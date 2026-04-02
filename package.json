@@ -1,5 +1,5 @@
 {
-  "name": "@anthropic-community/browsershot-mcp",
+  "name": "browsershot-mcp",
   "version": "0.1.0",
   "description": "Browser screenshot MCP server for Claude Code — capture webpages during frontend development",
   "main": "src/index.js",
@@ -23,7 +23,7 @@
   "author": "Kunal Jaiswal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anthropics/browsershot-mcp"
+    "url": "https://github.com/kjaiswal/browsershot-mcp"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",
